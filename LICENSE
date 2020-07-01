@@ -1,0 +1,51 @@
+Copyright (c) 2020, Ariel AI
+All Rights Reserved.
+
+This license is an agreement between you and Ariel AI. You agree to this license when 
+you download, copy, or make any use of the dataset (the "Dataset") linked to this license.
+
+Ariel AI hereby grants you a single-user, non-exclusive, non-transferable, free of charge 
+right to download, access, and/or use the Dataset for the sole purpose of performing 
+non-commercial scientific research, non-commercial education, or non-commercial artistic projects. 
+
+Any other use, in particular any use for commercial purposes, is prohibited. This includes, 
+without limitation, incorporation in a commercial product, use in a commercial service, 
+or production of other artefacts for commercial purposes.
+
+This license prohibits the use of the Dataset to train methods/algorithms/neural networks/etc. 
+for commercial use of any kind and/or to produce derivative datasets for commercial purposes.
+
+The Dataset may not be reproduced, modified, and/or made available in any form to any third party. 
+The Dataset and the license herein granted shall not be copied, shared, distributed, re-sold, 
+offered for re-sale, transferred or sub-licensed in whole or in part except that you may make 
+one copy for archive purposes only.
+
+THE DATASET IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, 
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE 
+AND NONINFRINGEMENT. IN NO EVENT SHALL ARIEL AI OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, 
+DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, 
+OUT OF OR IN CONNECTION WITH THE DATASET OR THE USE OR OTHER DEALINGS IN THE DATASET.
+
+You understand and agree that Ariel AI is under no obligation to provide either maintenance services, 
+update services, notices of latent defects, or corrections of defects with regard to the Dataset. 
+Ariel AI nevertheless reserves the right to update, modify, or discontinue the Dataset at any time. 
+Ariel AI reserves the right to suspend, terminate, or revoke your right to access or use (or both) 
+the Dataset at any time. You agree that you will not use Ariel AI's name, logo(s), or other 
+identifying information or image for any purpose.
+
+You agree to cite the following paper in any publication making use of the Dataset:
+
+@InProceedings{Kulon_2020_CVPR,  
+   author = {Kulon, Dominik and 
+             Guler, Riza Alp and
+             Kokkinos, Iasonas and
+             Bronstein, Michael M. and
+             Zafeiriou, Stefanos},  
+   title = {Weakly-Supervised Mesh-Convolutional Hand Reconstruction in the Wild},  
+   booktitle = {The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},  
+   month = {June},  
+   year = {2020}  
+}
+
+The above copyright notice and this permission notice shall be included in all copies 
+or substantial portions of the Dataset. 
