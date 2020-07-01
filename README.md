@@ -18,9 +18,10 @@ The dataset has been collected in a fully automated manner. Please, refer to our
 
 ## Dataset Request Form
 
-The dataset is published in the form of JSON files containing mesh annotations.
+The dataset is published in the form of JSON files containing mesh annotations. The size of compressed files is approximately 800 MB.
 
-The dataset is available for students and academic staff. You will need to provide a valid institutional email.  
+The dataset is available exclusively to persons affiliated with academic research institutions (PhD/Master's students, postdocs, faculty members,  and researchers), **exclusively for research purposes**, as detailed in the [LICENSE](./LICENSE) document. You will need to provide a valid institutional email. 
+
 To access the dataset, please, fill out the provided request form: [Dataset Request Form](https://forms.gle/U385D7b7Qfrig9NR9).
 
 ## Data Format
