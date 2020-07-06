@@ -4,7 +4,8 @@ The official repository for the dataset introduced in the **CVPR 2020 (Oral)** p
 [Weakly-Supervised Mesh-Convolutional Hand Reconstruction in the Wild](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kulon_Weakly-Supervised_Mesh-Convolutional_Hand_Reconstruction_in_the_Wild_CVPR_2020_paper.pdf)  
 by Dominik Kulon, Riza Alp Güler, Iasonas Kokkinos, Michael Bronstein, Stefanos Zafeiriou
 
-Project website: https://www.arielai.com/mesh_hands/
+Project website: https://www.arielai.com/mesh_hands/  
+Contact: <hands.dataset@arielai.com>
 
 ## Preview
 
