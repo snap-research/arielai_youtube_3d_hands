@@ -53,9 +53,9 @@ We suggest using the test set mainly for self-comparison. Otherwise, running Ope
 
 The repository contains a code example of using the pytube and OpenCV libraries to extract video frames which is not part of the licensed publication. The following software is required to run the code: 
 
-Python  
-[pytube](https://github.com/nficano/pytube)  
-opencv-python  
+- Python  
+- [pytube](https://github.com/nficano/pytube) or [pytube3](https://pypi.org/project/pytube3/) (whether python will be 2 or 3)
+- opencv-python  
 
 Commands to run the example:
 
